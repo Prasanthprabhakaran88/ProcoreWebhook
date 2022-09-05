@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+NDQNGmAefLjkZZ9JkGK5a5CFfx5bJXSjx/D3tYexso=",
+  "Source": "ControlQore.Procore.Integration",
+  "BasePath": "_content/ControlQore.Procore.Integration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
